@@ -1,8 +1,9 @@
-# .github
-A multichain smart contract wallet.
+# Superwallet
+## A multichain smart contract wallet.
 Project Demo Link : https://drive.google.com/file/d/1tQcE-7mDqt_hijvBHLKAeQgfRM05BUEP/view?usp=share_link
 
-Description : Purchasing NFTs has never been this seamless! Imagine Alice's quest for a rare APE Bored NFT, priced at 30 ETH. With 20 ETH on Ethereum and 10 wETH on Polygon, Superwallet works its magic.
+# Description :
+Purchasing NFTs has never been this seamless! Imagine Alice's quest for a rare APE Bored NFT, priced at 30 ETH. With 20 ETH on Ethereum and 10 wETH on Polygon, Superwallet works its magic.
 
 Alice initiates a single, super-efficient Multichain transaction. Choose any chain, any token, and any amount – it's that flexible! Need to send 100 USDC to vitalik.eth? Done in one go!
 
