@@ -2,8 +2,9 @@
 
 Welcome to Super Wallet, a revolutionary platform that enables users to create and manage smart contract wallets across various blockchain networks. With Super Wallet, you can easily hop on board through social logins and experience the world of blockchains.
 
-Project Demo Link : https://drive.google.com/file/d/1tQcE-7mDqt_hijvBHLKAeQgfRM05BUEP/view?usp=share_link
-Deployment link : https://super-wallet.vercel.app/
+## Project Demo Link : https://drive.google.com/file/d/1tQcE-7mDqt_hijvBHLKAeQgfRM05BUEP/view?usp=share_link
+
+## Deployment link : https://super-wallet.vercel.app/
 
 ## Table of Contents
 
