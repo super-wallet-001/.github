@@ -9,11 +9,10 @@ Welcome to Super Wallet, a revolutionary platform that enables users to create a
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Features](#features)
-3. [UX Optimizaion](#ux-optimization)
-4. [Flow](#flow)
-5. [Technology Stack](#technology-stack)
-6. [Supported Networks](#supported-networks)
+2. [UX Optimizaion](#ux-optimization)
+3. [Flow](#flow)
+4. [Technology Stack](#technology-stack)
+5. [Supported Networks](#supported-networks)
 
 ---
 
@@ -28,18 +27,6 @@ Super Wallet is a cutting-edge platform that empowers users to manage their digi
 - **Cross-Chain Transactions**: Super Wallet allows you to receive funds on any blockchain network and easily combine assets from multiple chains for transactions. For example, you can combine 2 aUSDC from Avalanche and 5 aUSDC from Polygon to make a payment of 7 aUSDC on Mantle.
 
 - **Single Signature Transactions**: Thanks to smart contract wallets, all transactions can be executed with just one user signature, making the user experience seamless and efficient.
-
-## Features
-
-- **Cross-Chain Functionality**: Super Wallet leverages Axelar GMP to implement cross-chain functionality, allowing you to interact seamlessly with different blockchain networks. [Learn more](https://docs.axelar.dev/dev/general-message-passing/overview).
-
-- **Account Abstraction**: We use Biconomy SDK V2 for account abstraction, simplifying the interaction with blockchain accounts.
-
-- **Social Logins**: Super Wallet is integrated with the Particle Network for social logins, providing a user-friendly onboarding process.
-
-- **Client-Side Development**: Our client-side application is built using Next.js.
-
-- **Smart Contracts**: Solidity is used to develop the super wallet bridge smart contracts that power Super Wallet.
 
 ## UX Optimization
 We've significantly improved user experience by implementing account abstraction in Super Wallet. To achieve this, we're utilizing Biconomy's Account Abstraction SDK v2.
